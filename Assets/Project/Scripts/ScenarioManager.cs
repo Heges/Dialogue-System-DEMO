@@ -6,11 +6,11 @@ public class ScenarioManager : MonoBehaviour
 {
     public static ScenarioManager instance;
 
-    public bool play = false;
-
     [SerializeField] private List<Speech> speeches;
 
     private Scenario currentScenario;
+
+    private bool play = false;
 
     private Queue<Scenario> scenarios;
 
@@ -44,7 +44,7 @@ public class ScenarioManager : MonoBehaviour
             Scenario newScenario = new Scenario(scenario.background, scenario);
             scenarios.Enqueue(newScenario);
         }
-        Debug.Log("SCENARIS WAS INITIALIZED");
+        Debug.Log("SCENARIOS WAS INITIALIZED");
     }
 
     public void StartScenario()
