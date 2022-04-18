@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34ab1c9331849c6449997290dacd4004, type: 3}
+  m_Name: Introdaction
+  m_EditorClassIdentifier: 
+  background: {fileID: 21300000, guid: 8101fd2f2bd28a746bc700469dfa7806, type: 3}
+  line:
+  - nameChar: Machiko
+    place: 1
+    text: Hello!
+    mood: 0
+  - nameChar: Maeko
+    place: 2
+    text: Hello there!
+    mood: 0
+  - nameChar: Machiko
+    place: 1
+    text: "\rAre you watching tests dialogue demo version of the unfinished novel?..."
+    mood: 0
+  - nameChar: Maeko
+    place: 2
+    text: "\rOr just a dialogue system?"
+    mood: 0
+  - nameChar: Maeko
+    place: 2
+    text: Unfinished...
+    mood: 3
+  - nameChar: Machiko
+    place: 3
+    text: BUT STILL AMAZING!
+    mood: 5
+  - nameChar: Machiko
+    place: 3
+    text: "\rOkay let's go I'll show you our dojo"
+    mood: 3

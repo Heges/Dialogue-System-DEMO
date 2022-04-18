@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34ab1c9331849c6449997290dacd4004, type: 3}
+  m_Name: Machiko Speech
+  m_EditorClassIdentifier: 
+  line:
+  - nameChar: Machiko
+    place: 1
+    text: Hi bitch!
+    mood: 0
+  - nameChar: Maeko
+    place: 2
+    text: From bitch i having heard
+    mood: 0
+  - nameChar: Machiko
+    place: 1
+    text: Dont be shy.. oh comon. dont be upset
+    mood: 0
+  - nameChar: Maeko
+    place: 2
+    text: Fuck off stupid shit
+    mood: 0
+  - nameChar: Maeko
+    place: 2
+    text: And go die witch
+    mood: 3
+  - nameChar: Machiko
+    place: 3
+    text: OKKAY
+    mood: 5

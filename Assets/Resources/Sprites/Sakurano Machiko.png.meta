@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: 0130ac073bf00274eae760fde4aaf60e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1859354265795826420
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_0
+  - first:
+      213: 3587924759366812067
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_1
+  - first:
+      213: -1503388074853928475
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_2
+  - first:
+      213: -2021375502459165791
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_3
+  - first:
+      213: -5110624206199883905
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_4
+  - first:
+      213: -1921532512899324527
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_5
+  - first:
+      213: -826388064062128157
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_6
+  - first:
+      213: -5675734505635391245
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_7
+  - first:
+      213: -533133375279112889
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_8
+  - first:
+      213: 4568597740929274632
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_9
+  - first:
+      213: -1699118686524246676
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_10
+  - first:
+      213: -5268815867383373778
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_11
+  - first:
+      213: -7674976719149263426
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_12
+  - first:
+      213: 2343860127039448543
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_13
+  - first:
+      213: 2206130584899040744
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_14
+  - first:
+      213: -675010303570274108
+    second: PC Computer - Sakura Spirit - Sakurano Machiko_15
+  - first:
+      213: 7449844358080203883
+    second: Sakurano Machiko_0
+  - first:
+      213: -7141624743446263370
+    second: Sakurano Machiko_1
+  - first:
+      213: -4142461831574356952
+    second: Sakurano Machiko_2
+  - first:
+      213: 1764085244381569968
+    second: Sakurano Machiko_3
+  - first:
+      213: 9093618894722812663
+    second: Sakurano Machiko_4
+  - first:
+      213: -1844832653067324301
+    second: Sakurano Machiko_5
+  - first:
+      213: -150925251599245155
+    second: Sakurano Machiko_6
+  - first:
+      213: 7262443577510480516
+    second: Sakurano Machiko_7
+  - first:
+      213: -462656606462819425
+    second: Sakurano Machiko_8
+  - first:
+      213: -2605050673934519909
+    second: Sakurano Machiko_9
+  - first:
+      213: 568326995246484766
+    second: Sakurano Machiko_10
+  - first:
+      213: -3161732388709021727
+    second: Sakurano Machiko_11
+  - first:
+      213: -7637621909267502833
+    second: Sakurano Machiko_12
+  - first:
+      213: -8481552542821373872
+    second: Sakurano Machiko_13
+  - first:
+      213: -6578623220458615123
+    second: Sakurano Machiko_14
+  - first:
+      213: -8160270159001910103
+    second: Sakurano Machiko_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sakurano Machiko_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5274
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c815309f9236760800000000000000
+      internalID: 7449844358080203883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 5274
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9cebf322ad3ec90800000000000000
+      internalID: -7141624743446263370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4521
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c756179e40386c0800000000000000
+      internalID: -4142461831574356952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_3
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 4521
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b32fd8ee2a4b7810800000000000000
+      internalID: 1764085244381569968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3768
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7facbb66436033e70800000000000000
+      internalID: 9093618894722812663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3768
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37471e3f976d566e0800000000000000
+      internalID: -1844832653067324301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3015
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d906ac6884ec7edf0800000000000000
+      internalID: -150925251599245155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_7
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3015
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a44d6a4f169c460800000000000000
+      internalID: 7262443577510480516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2262
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93cbc684405499f0800000000000000
+      internalID: -462656606462819425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_9
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2262
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91bd36d63009dbd0800000000000000
+      internalID: -2605050673934519909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1509
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d8eeb146a13e700800000000000000
+      internalID: 568326995246484766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1509
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7c620e4254f14d0800000000000000
+      internalID: -3161732388709021727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 756
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09ae51e657b10690800000000000000
+      internalID: -7637621909267502833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_13
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 756
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058225546e87b4a80800000000000000
+      internalID: -8481552542821373872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae8d69390904b4a0800000000000000
+      internalID: -6578623220458615123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sakurano Machiko_15
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3
+        width: 667
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4887d7685e0ce80800000000000000
+      internalID: -8160270159001910103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43e5cb47ffb27bb49926dc235ceb533d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a440c7b4055a0c744a0f81ea5ac23d85, type: 3}
+  m_Name: Maeko
+  m_EditorClassIdentifier: 
+  characterName: Maeko
+  characterImage: {fileID: -5475968555165413452, guid: a743f3304d067944dbdd1b7e83c5cc16,
+    type: 3}
+  characterExpressions:
+  - {fileID: 3652068961665992019, guid: a743f3304d067944dbdd1b7e83c5cc16, type: 3}
+  - {fileID: 6275311129970192547, guid: a743f3304d067944dbdd1b7e83c5cc16, type: 3}
+  - {fileID: 7234074224954827876, guid: a743f3304d067944dbdd1b7e83c5cc16, type: 3}
+  - {fileID: 4242318477385658562, guid: a743f3304d067944dbdd1b7e83c5cc16, type: 3}
+  - {fileID: 8871605333981384299, guid: a743f3304d067944dbdd1b7e83c5cc16, type: 3}
+  - {fileID: 8575333613315138309, guid: a743f3304d067944dbdd1b7e83c5cc16, type: 3}
+  - {fileID: 3652068961665992019, guid: a743f3304d067944dbdd1b7e83c5cc16, type: 3}
+  - {fileID: 4891833284238273478, guid: a743f3304d067944dbdd1b7e83c5cc16, type: 3}
+  left: 0

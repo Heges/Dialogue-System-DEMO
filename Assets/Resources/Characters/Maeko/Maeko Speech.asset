@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34ab1c9331849c6449997290dacd4004, type: 3}
+  m_Name: Maeko Speech
+  m_EditorClassIdentifier: 
+  speech:
+  - speech:
+    - How Are you?
+    expression: 03000000
+  - speech:
+    - I am fine TO!
+    expression: 06000000
+  - speech:
+    - OH COMMON LETS FIGHT TO DEATH
+    - AAAGRH
+    expression: 0100000006000000
